@@ -1,2 +1,2 @@
 # CSS-Isometric-Cards
-isometric cards
+Isometric cards
